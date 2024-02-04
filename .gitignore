@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# Compiled files
+/dist/
+
+# Logs
+logs
+*.log
+
+# Local environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
